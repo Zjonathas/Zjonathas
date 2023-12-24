@@ -14,6 +14,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="c#" src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/django-%231DA1F2.svg?&style=for-the-badge&logo=django&logoColor=white)" />
   
 </div>
 
@@ -21,5 +22,5 @@ Apaixonado por tecnologia e games
 
 Entre em contato conmigo pelo email abaixo
 - Email - jonathas92244@gmail.com
-- Portifólio - https://zjonathas.github.io/Portf-lio/
+<a href="zjonathas.github.io/Portf-lio">- Portifólio</a>
   
