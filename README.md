@@ -22,5 +22,5 @@ Apaixonado por tecnologia e games
 
 Entre em contato conmigo pelo email abaixo
 - Email - jonathas92244@gmail.com<br>
-<a href="zjonathas.github.io/Portf-lio">- Portifólio</a>
+-<a href="zjonathas.github.io/Portf-lio"> Portifólio</a>
   
