@@ -1,5 +1,6 @@
 ### Olá, eu sou o Jonathas Emanuel👋
-Estudando do IFRN no curso de Técnico em Informática 4/4
+Técnico em Informática pelo IFRN
+Estudando no IFRN no curso de Tecnologia em Sistemas Para Internet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-emanuel-b6b96923a/)
 
